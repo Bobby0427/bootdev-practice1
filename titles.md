@@ -1,7 +1,8 @@
-#Titles
+# Titles
+
 
 -A River Runs Through It
--Fight club
--12 years a slave
+-Fight Club
+-12 years a Slave
 -The Big short
 -12 Monkeys
